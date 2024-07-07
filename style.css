@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(41, 36, 36);
+}
+.custom-card{
+    width: 300px; 
+    height: 520px;
+}
+#like {
+    border: none;
+    color: grey;
+}
+
+#like:focus {
+    border: none;
+}
+
+.red-heart {
+    color: red;
+}
